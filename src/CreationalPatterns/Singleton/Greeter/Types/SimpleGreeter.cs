@@ -6,6 +6,7 @@ namespace Greeter.Types;
 /// Simple singleton that is not thread-safe.
 /// Two different threads could both have evaluated the test 'if (instance == null)' and found it to be true,
 /// then both create instances, which violates the singleton pattern.
+/// 非线程安全的懒汉式
 /// </summary>
 public class SimpleGreeter : BaseGreeter
 {

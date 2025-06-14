@@ -11,6 +11,7 @@ namespace Greeter.Types;
 /// There are a couple of wrinkles however, because it's not as lazy as other implementations.
 /// In particular, if you have static members other than Instance, the first reference to any of these members will create the instance.
 /// This is corrected in the <see cref="LocklessFullyLazyGreeter"/> implementation.
+/// 饿汉式
 /// </summary>
 public class LocklessGreeter : BaseGreeter
 {

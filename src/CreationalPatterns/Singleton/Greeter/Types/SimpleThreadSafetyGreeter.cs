@@ -7,6 +7,7 @@ namespace Greeter.Types;
 /// The thread takes out a lock on a shared object, and then checks whether
 /// or not the instance has been created before retrieving the instance.
 /// Unfortunately, performance suffers as a lock is acquired every time the instance is requested.
+/// 线程安全的懒汉式
 /// </summary>
 public class SimpleThreadSafetyGreeter : BaseGreeter
 {
