@@ -293,7 +293,7 @@
 
 - 工厂方法 Factory Method
 
-![](\images\factory%20method.jpg)
+![](\images\factory_method.jpg)
 
 - 抽象工厂 Abstract Factory
 
