@@ -293,20 +293,20 @@
 
 - 工厂方法 Factory Method
 
-![](D:\Git\DesignPatternsLibrary\images\factory%20method.jpg)
+![](\images\factory%20method.jpg)
 
 - 抽象工厂 Abstract Factory
 
-![](D:\Git\DesignPatternsLibrary\images\abstract_factory.jpg)
+![](\images\abstract_factory.jpg)
 
 - 建造者 Builder
 
-![](D:\Git\DesignPatternsLibrary\images\builder.jpg)
+![](\images\builder.jpg)
 
 - 原型 Prototype
 
-![](D:\Git\DesignPatternsLibrary\images\prototype.jpg)
+![](\images\prototype.jpg)
 
 - 单例 Singleton
 
-![](D:\Git\DesignPatternsLibrary\images\singleton.jpg)
+![](\images\singleton.jpg)
