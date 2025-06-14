@@ -193,8 +193,6 @@
 
 掌握这三类模式，你的代码就从“乱搭窝棚”升级到“建造摩天大楼”了！
 
-
-
 #下面介绍创建型(Creational)设计模式:
 
 ### 🧱 一、创建型模式：武林中的“秘籍传承体系”
@@ -295,20 +293,20 @@
 
 - 工厂方法 Factory Method
 
-![](D:\Git\DesignPatternsLibrary\images\工厂方法.jpg)
+![](D:\Git\DesignPatternsLibrary\images\factory%20method.jpg)
 
 - 抽象工厂 Abstract Factory
 
-![](D:\Git\DesignPatternsLibrary\images\抽象工厂.jpg)
+![](D:\Git\DesignPatternsLibrary\images\abstract_factory.jpg)
 
 - 建造者 Builder
 
-![](D:\Git\DesignPatternsLibrary\images\建造者模式.jpg)
+![](D:\Git\DesignPatternsLibrary\images\builder.jpg)
 
 - 原型 Prototype
 
-![](D:\Git\DesignPatternsLibrary\images\原型.jpg)
+![](D:\Git\DesignPatternsLibrary\images\prototype.jpg)
 
 - 单例 Singleton
 
-![](D:\Git\DesignPatternsLibrary\images\单例.jpg)
+![](D:\Git\DesignPatternsLibrary\images\singleton.jpg)
