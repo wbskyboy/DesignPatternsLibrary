@@ -293,20 +293,20 @@
 
 - 工厂方法 Factory Method
 
-![](\images\factory_method.jpg)
+![](.\images\factory_method.jpg)
 
 - 抽象工厂 Abstract Factory
 
-![](\images\abstract_factory.jpg)
+![](.\images\abstract_factory.jpg)
 
 - 建造者 Builder
 
-![](\images\builder.jpg)
+![](.\images\builder.jpg)
 
 - 原型 Prototype
 
-![](\images\prototype.jpg)
+![](.\images\prototype.jpg)
 
 - 单例 Singleton
 
-![](\images\singleton.jpg)
+![](.\images\singleton.jpg)
